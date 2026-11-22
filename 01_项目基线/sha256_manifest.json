@@ -1,0 +1,42 @@
+[
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g0_acceptance_report.md",
+    "SHA256": "E7C5411380A2FA584F1BC66F25B74C7CF9BFA100C51079AD54B0D85E9C4D0BFD",
+    "Size": 2370
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g0_audit_report.md",
+    "SHA256": "A2BA7BB3AE05563850D9A2E8F00DD9083F614C6416735F422E17D6135AC246A7",
+    "Size": 2679
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest.json",
+    "SHA256": "768327A350B635FA20CC2B4CEDA42A2F2E1C26047279E75D093514C0AEAC00CF",
+    "Size": 870
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest.txt",
+    "SHA256": "8617F9D7E0BBFADC29F1FDF51FF77031848D2DC30505B105C11772AA6C0DC5F7",
+    "Size": 546
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\docs\\architecture.md",
+    "SHA256": "6DC735286AC689C343633C35A67A736E0EF74B21AEB0A3F3621F518AD6FDC7C0",
+    "Size": 5573
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\docs\\development_tasks.md",
+    "SHA256": "EDFC7F51B134A43B3202CEBF6184C6DE32D7784ED56A687E797459B8900FD3D4",
+    "Size": 3647
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\docs\\risks.md",
+    "SHA256": "7FB3677F8580943DAFBF2D202EC923A048654EC07E316C84B1D1FD4E4DEAE646",
+    "Size": 3496
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\README.md",
+    "SHA256": "0CBAFB797D6F8D9C0D0C3157E4D3E2471379BD205515F85FE4B14FAA43BC0AAC",
+    "Size": 3595
+  }
+]
