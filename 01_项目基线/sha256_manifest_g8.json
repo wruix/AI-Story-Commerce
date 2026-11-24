@@ -1,0 +1,912 @@
+[
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g0_acceptance_report.md",
+    "SHA256": "E7C5411380A2FA584F1BC66F25B74C7CF9BFA100C51079AD54B0D85E9C4D0BFD",
+    "Size": 2370
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g0_audit_report.md",
+    "SHA256": "A2BA7BB3AE05563850D9A2E8F00DD9083F614C6416735F422E17D6135AC246A7",
+    "Size": 2679
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g1_acceptance_report.md",
+    "SHA256": "050369B4F1A74D6B2B798362E1807513554D869F3C50E3338171C05745FF5708",
+    "Size": 4984
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g2_acceptance_report.md",
+    "SHA256": "B3E0149659E0C0AE1C307EF511167B73B735FDEE6B40B70329AA31839C68B6A9",
+    "Size": 4360
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g3_acceptance_report.md",
+    "SHA256": "00F947A7C9D9D43C68F3D226A9ADD552068136E4A8929AD2746C3B8EC4088C66",
+    "Size": 3847
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g4_acceptance_report.md",
+    "SHA256": "49A469C1FC386244B26021B6406508325706C32798D6056895E35959FAFA0A90",
+    "Size": 5034
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g5_acceptance_report.md",
+    "SHA256": "246033DA95199385174F35E07B2C1C6A271F8C9F317F710D17F3DE5BB41F18F1",
+    "Size": 4988
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g6_acceptance_report.md",
+    "SHA256": "F1FBBFC569C6BB47938DFC1BE2FEE4BC97100594E2BCE3FD9313D60EC1AE1F2F",
+    "Size": 6336
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\g7_acceptance_report.md",
+    "SHA256": "C8FE1C2AD2D22990C87CBC7F57134A96B994A20C7C7C6678B5B6C6B368506408",
+    "Size": 5184
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g1.json",
+    "SHA256": "A048960BEAEED10292BD10E3F3ACCF16E62D8A993EDB23B27A1EE672396CAA49",
+    "Size": 10144
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g1.txt",
+    "SHA256": "43ED6F67641E527835DD28CC73C0E42C0DFB288446E55D2C3FEEC90FCBAFA299",
+    "Size": 6604
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g2.json",
+    "SHA256": "2CDA8FC09378B3CB6B79FB82919F02672073EF7AB127CBB5CDFD536ED28744BB",
+    "Size": 524452
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g2.txt",
+    "SHA256": "2D3C097A2E45004A8DBDD794ED60CB462A8AB253A39F9BD16B1C4C80154749AE",
+    "Size": 397954
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g3.json",
+    "SHA256": "427E442C07F83CDB4C098BA63A85FE15C399F0C486A7B18294B3A6ACC150EB1E",
+    "Size": 19190
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g3.txt",
+    "SHA256": "ABA0216ACCB9C50D3AFAA033ADD81FF0B41C5233497345BD0848B63A21AA9DF6",
+    "Size": 12534
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g4.json",
+    "SHA256": "A45DCE3A4A6D0348CA9AB1C5FA59A3F2898CFDD7623C802D50F27B0C56BB994B",
+    "Size": 21933
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g4.txt",
+    "SHA256": "C470F17D1BE86F0F882D019D872B0B4830D04EEB0E8BFF38E282AECE6B1A6A89",
+    "Size": 14394
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g5.json",
+    "SHA256": "E3FB0BB4205243449D0DDB770324DC4D20B8CADCF8FBF65E854B0A88C72553CA",
+    "Size": 25183
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g5.txt",
+    "SHA256": "5D0B53B91C4C0B32C9AEB32D4F42FA76898A1005C2BC4C5341EB768204F5A57F",
+    "Size": 16666
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g6.json",
+    "SHA256": "EBEB81B33B5CBC6675BAF401FF4FA09E3441A9AF89A107F4C8E170BF6DB7F0D5",
+    "Size": 30291
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g6.txt",
+    "SHA256": "39AC5280589B2A8C4C002BED06A509252E61D0BC3E23D323D38D64C29AEB770D",
+    "Size": 20136
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g7.json",
+    "SHA256": "2AD8FD51C8564E436516DDB54C5D4CCFDD8AD042BC1C93106224067C1A308B88",
+    "Size": 33754
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest_g7.txt",
+    "SHA256": "1327E6030EE8CB8AB6E46D5F3C9EDA8A20B5CCAF165B6176216BC499025C55B0",
+    "Size": 22495
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest.json",
+    "SHA256": "07110C1225E3BEAE085DFA483B9EF8420C453B25936EC676CC6D16175E2F7B1D",
+    "Size": 1437
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\01_项目基线\\sha256_manifest.txt",
+    "SHA256": "AC19E4BC3B77CB00C320B434256406A5F8EF415B2B9DB85C8C8132806F235A84",
+    "Size": 923
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\alembic.ini",
+    "SHA256": "8092662D5D18B1262B88EC97A271287404583635718DD97BAE2CA16405DE6931",
+    "Size": 707
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\0c05e041-2385-44f1-a744-335ef8c24a12\\tmpingq2f9f.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\15a0df61-8cad-43e6-ab2a-130781b97f79\\tmpdjlr73ku.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\182761ba-4db6-4447-a305-17afdf35f67c\\tmph_9ys5eu.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\18be56a7-ca45-4a2b-b4aa-e59001f55845\\tmph05b43lz.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\1f94c10c-8828-485d-9ac2-738f3fcac427\\tmp_e_j8ulf.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\36bf520b-3802-425f-8cd2-35c4251f8144\\tmpf_cd2vm5.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\385ad5e3-f5e8-4adf-b0ae-36dd9a5356e5\\tmpouiivdlk.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\45b6debc-3295-43cd-8943-88c929fdcd4a\\tmpgkfuelry.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\518faed7-c2fe-4f10-bfac-3877c315d169\\tmpg5w06k1u.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\53e7f7a5-52f2-4f8c-8dca-02fbe6baf7c2\\tmpprujzzqr.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\549fca1a-d1f3-434a-9b62-20fa59758189\\tmp_ljr5tv2.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\67d24e3a-d40b-426f-ab17-21974a5c6e1d\\tmpjl3onhed.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\b0c4d7b2-972c-47b5-a309-ee480fe4e6d1\\tmpu5t4rm65.png",
+    "SHA256": "5B3397652358A6663A0225EE76466D4E4FD6C58D484D1AA25170BB617D6BB086",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\b9793834-089d-463e-8d74-d97831156818\\tmpjwp5ti8w.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\character_assets\\de911c51-ef57-4b7b-946f-c84c3802b120\\tmpm86sjujh.png",
+    "SHA256": "B8D6834E0D5556791CD482D5A6B6AB7267CCEFDA97FA9BE076D461A4D73094D2",
+    "Size": 9
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp_newtzpw.png",
+    "SHA256": "B41B86DCFDC6219BC2FB987591AD9995BCF3A1E40C2BDD3FDBEC622371E6E1AF",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp1jd1ji7a.png",
+    "SHA256": "FC50F1A3C9CBF0154D7DC87998446624C8B78F84C5CBEF4F8139A0C8BE1E4976",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp7hlo56rp.png",
+    "SHA256": "B41B86DCFDC6219BC2FB987591AD9995BCF3A1E40C2BDD3FDBEC622371E6E1AF",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp7vawxsan.png",
+    "SHA256": "FC50F1A3C9CBF0154D7DC87998446624C8B78F84C5CBEF4F8139A0C8BE1E4976",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp8xx0zhyf.mp3",
+    "SHA256": "BB24D9039CE8110CEA840A7E6BC521B33448439FD79F119DFF175DE8796C8574",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp90al1ylf.mp3",
+    "SHA256": "BB24D9039CE8110CEA840A7E6BC521B33448439FD79F119DFF175DE8796C8574",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmp9rcvvrpr.mp3",
+    "SHA256": "BB24D9039CE8110CEA840A7E6BC521B33448439FD79F119DFF175DE8796C8574",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpccjg9lmh.png",
+    "SHA256": "FC50F1A3C9CBF0154D7DC87998446624C8B78F84C5CBEF4F8139A0C8BE1E4976",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpevm52550.png",
+    "SHA256": "FC50F1A3C9CBF0154D7DC87998446624C8B78F84C5CBEF4F8139A0C8BE1E4976",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpf0yaqv8v.png",
+    "SHA256": "B41B86DCFDC6219BC2FB987591AD9995BCF3A1E40C2BDD3FDBEC622371E6E1AF",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpfpft_3sp.png",
+    "SHA256": "FC50F1A3C9CBF0154D7DC87998446624C8B78F84C5CBEF4F8139A0C8BE1E4976",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpfvm0y371.mp3",
+    "SHA256": "BB24D9039CE8110CEA840A7E6BC521B33448439FD79F119DFF175DE8796C8574",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpi1xcsm8m.mp3",
+    "SHA256": "BB24D9039CE8110CEA840A7E6BC521B33448439FD79F119DFF175DE8796C8574",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpmmm2hpv8.png",
+    "SHA256": "FC50F1A3C9CBF0154D7DC87998446624C8B78F84C5CBEF4F8139A0C8BE1E4976",
+    "Size": 15
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmptdhpuvrf.png",
+    "SHA256": "B41B86DCFDC6219BC2FB987591AD9995BCF3A1E40C2BDD3FDBEC622371E6E1AF",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpw7ws_79c.mp3",
+    "SHA256": "BB24D9039CE8110CEA840A7E6BC521B33448439FD79F119DFF175DE8796C8574",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpx74h1ree.png",
+    "SHA256": "B41B86DCFDC6219BC2FB987591AD9995BCF3A1E40C2BDD3FDBEC622371E6E1AF",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\materials\\uploads\\tmpz822logv.png",
+    "SHA256": "B41B86DCFDC6219BC2FB987591AD9995BCF3A1E40C2BDD3FDBEC622371E6E1AF",
+    "Size": 10
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\mock_outputs\\mock_image_f04ac350e187.png",
+    "SHA256": "4806DEA61CE86F270D5E6F6AA08AF25AEE66D3393436B3FBD07DC133E7FF6DF6",
+    "Size": 22
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\mock_outputs\\mock_video_b23d92b11bff.mp4",
+    "SHA256": "186E6E78D547562F22BCA11101DFBDAC7C1176F922B1329B4A48D378DCACAC17",
+    "Size": 22
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\data\\mock_outputs\\mock_voice_a6d00e2f5450.mp3",
+    "SHA256": "3DB723B98A63C42C880F72F38E5339D9275AAABA5B4F4CCB267ACEA3D86604C3",
+    "Size": 22
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\docs\\architecture.md",
+    "SHA256": "6DC735286AC689C343633C35A67A736E0EF74B21AEB0A3F3621F518AD6FDC7C0",
+    "Size": 5573
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\docs\\development_tasks.md",
+    "SHA256": "EDFC7F51B134A43B3202CEBF6184C6DE32D7784ED56A687E797459B8900FD3D4",
+    "Size": 3647
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\docs\\risks.md",
+    "SHA256": "7FB3677F8580943DAFBF2D202EC923A048654EC07E316C84B1D1FD4E4DEAE646",
+    "Size": 3496
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\README.md",
+    "SHA256": "0CBAFB797D6F8D9C0D0C3157E4D3E2471379BD205515F85FE4B14FAA43BC0AAC",
+    "Size": 3595
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\.env",
+    "SHA256": "C28061558D3B0333B1A834B3D458EC2829F62624A1DA13C1E85DB800AD3DB71B",
+    "Size": 321
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\alembic\\env.py",
+    "SHA256": "E2B92E91892EBB42EDF954FC9974C2AD4540F5DBD138BF866E5FBB85FBFF795A",
+    "Size": 1819
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\alembic\\versions\\0001_initial.py",
+    "SHA256": "64A7B3BC362CEB002E9F1FF29974E83D7BF67D9A409918CB105B27BB7E15600C",
+    "Size": 18771
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\__init__.py",
+    "SHA256": "1FF3043D3706486EA6E88BFD8301A386F44559AD587985474A28845E1D19B286",
+    "Size": 40
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\__init__.py",
+    "SHA256": "B89FB8C63702248D036475E2287D59AC5EB96C21C1E452B269E8FC404372C8A2",
+    "Size": 1877
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\advertisements.py",
+    "SHA256": "A7F24256FBB5A84B962C729C6939AB65384E4306ABB67E3D7B9A6D305BEA8107",
+    "Size": 2324
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\audit_logs.py",
+    "SHA256": "1197C32D53368C8FE4AE6C4E7380C5F5A3D9183C6CC0FA8B1D2E68AC388B80B9",
+    "Size": 1065
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\characters.py",
+    "SHA256": "3A9C6E09597C44DB6235A801D76678B067E556E01677635F40AE27D65AA3ED7A",
+    "Size": 1832
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\compliance_reviews.py",
+    "SHA256": "E1074F1F69CE46C513B5B2C73ACB7F7ACB60384B6C23CF21E9EA7340D37D9C99",
+    "Size": 2410
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\customers.py",
+    "SHA256": "73B68570F18E90D20A6F0698700796029D60D8F622B5B2EB6C156437AE034761",
+    "Size": 1968
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\health.py",
+    "SHA256": "C097C9B8658EDD0E94B92D1236A647D0D0324DC537E7ABE3C6DBE3DEA62917C5",
+    "Size": 286
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\media_assets.py",
+    "SHA256": "D2A179E07CE09AE66FF113323CE5D8EAAD51A7C23C8294A746C8D495F11DA0CC",
+    "Size": 2320
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\performance_metrics.py",
+    "SHA256": "CAA619E7A141E044DB2A3F5093C26D1E96B41068456026A1982F415400E77FBE",
+    "Size": 2507
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\production_tasks.py",
+    "SHA256": "5F71D65006BBF77CC1A680CD9137DADE61F01D3BFC9D85E3A9C9AE4760B7B70C",
+    "Size": 2365
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\products.py",
+    "SHA256": "5AC12D4C2693569F922A53362636D89D9457A510CEF8DF1287EFBD14B1CF0076",
+    "Size": 2108
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\projects.py",
+    "SHA256": "0BA3D6515150D5FD77A9D020C4FAC1F8B5B61FD8212C53AEF102D534BC5BF751",
+    "Size": 1931
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\prompt_templates.py",
+    "SHA256": "0D71751163413994C1B0FE66C39513140C97B4B37AA6136F8F837D579127A1C6",
+    "Size": 2140
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\publishing_records.py",
+    "SHA256": "0DC2DEC7A73631702E004E8A8AF20E26CD810FD479533C77CDADEB3FABC888E5",
+    "Size": 2432
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\scripts.py",
+    "SHA256": "FA4570A5D81BB8E00DBEE69E2D85728A6B656DC46B3C23686B2995954E5B8F5D",
+    "Size": 2096
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\story_ideas.py",
+    "SHA256": "426A8D44F6E7E9CA5AB16E633FFA397828354C1102C0628AD075AB0AEA6BA149",
+    "Size": 2207
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\api\\v1\\storyboards.py",
+    "SHA256": "F628B9B46E1C423EBF554C9C99B8B0197F7CF295316C340327DB62869926CEEC",
+    "Size": 2204
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\core\\config.py",
+    "SHA256": "7D534645EEC01B817786687ACE20D97CB7C4898489BE8FC3AFAA46B3F36EF7DA",
+    "Size": 741
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\crud\\__init__.py",
+    "SHA256": "80453CAEF8769CC2D2CFE245696340F2A9A27D5483284A2EC7DFB2BC0782BA21",
+    "Size": 2331
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\crud\\crud.py",
+    "SHA256": "D189B06AA83A75D78926CFC30572D6D42E5B2317C22B74157DFD6433FEDBB329",
+    "Size": 9086
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\db\\session.py",
+    "SHA256": "1D96388DEA9C953C174C7BCB45D3846AC2BE23491E46317D1F09C0140AB89DC8",
+    "Size": 819
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\main.py",
+    "SHA256": "5530611AF46AA372CECCF5260EA58E27ACEF54B8543CA15EB1B6394BDE449037",
+    "Size": 1116
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\models\\__init__.py",
+    "SHA256": "903FDF3E07968F2517E82393328A7EE0E8A05EAC24EA4CFF96BE938AFB9AB4AA",
+    "Size": 938
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\models\\base.py",
+    "SHA256": "548693275ECD39E0D5A638AB86C87D9158E3413D2118626A9C172E6363238E91",
+    "Size": 27182
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\app\\schemas\\__init__.py",
+    "SHA256": "0F509565A40FDD19623A3C4DFE6AB5D4A6F8C5930691178136FFB12DCE8C6444",
+    "Size": 14698
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\data\\ai_story_commerce.db",
+    "SHA256": "0690469D7C12CFFAAF3724E069B205A90D7AA6A771EBB52F19C48CB63DBF9F36",
+    "Size": 212992
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\requirements.txt",
+    "SHA256": "DF487C8E8899458F546CA8EFB2ED4B255B2A1BC3CE20770D047DD18ED3C00EA4",
+    "Size": 329
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\__init__.py",
+    "SHA256": "8FA524A573FF489FA7CA5D1D2F80DDAEACD123E1C81C28A5D8E75E972E57D46F",
+    "Size": 51
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "9D791BAD1A6FB3A337D381BDD36AAC7415DF86FE11EF720C2BFC2543B5B8F095",
+    "Size": 245
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\__init__.py",
+    "SHA256": "1047901B6A65F1F8A62C16A4B3E287063E25319836CBACAB07A8D24C57476AA8",
+    "Size": 5857
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "C3A2BEDA12A5F6A720E23CC9B49272E2A95F41F2497992C4DE9BABCAD3D85F90",
+    "Size": 7150
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\agents\\__init__.py",
+    "SHA256": "40B88B2CF2B594580E2920DE5D85125E2AF746F36AE236A6941EA58D51EA0BCF",
+    "Size": 13030
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\agents\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "C5653AF21A4FB9F6EA8405B0240E6984969B399B3F95C71EA3EA7829DC5B748E",
+    "Size": 15886
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\prompts\\__init__.py",
+    "SHA256": "0D7F26EB486140FB27438CA75A3251E7F3E7AEC9A8E0446F2848234E2EF0EB72",
+    "Size": 5924
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\prompts\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "1CDBB9E8AE8F46985102B6A10190BC24D8057230325A2A9948BE94454270154C",
+    "Size": 5891
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\scorer\\__init__.py",
+    "SHA256": "7B79DD64E03EFFDCEC53121E7F5395370815FAFC8F851E985C0BF8585D6E1AA9",
+    "Size": 5601
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\ai_engine\\scorer\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "29B635510D34EBA67F46154DC0ADB303692E40DC146065DE2C9572560AC39813",
+    "Size": 7861
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\api\\__pycache__\\server.cpython-311.pyc",
+    "SHA256": "74023F1C0A3D84BF030CF29B749A6B0032E034AB2EF109B529341EF75E174B11",
+    "Size": 33955
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\api\\server.py",
+    "SHA256": "340830730E25547404BCEC36935863E7620E48CF0A0F0C2DE62844BEA274EA73",
+    "Size": 31844
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\character_management\\__init__.py",
+    "SHA256": "935079CC4D7129467040EE680B4A674394C05C6EA41ACE7E14C5B9552C3CA6A6",
+    "Size": 16658
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\character_management\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "CDC226B2E817B4867C8F22009DCCFA5BC764AA6C82C14D4CC15921EB121F86D1",
+    "Size": 23147
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\character_management\\relationships\\__init__.py",
+    "SHA256": "22C2B930AA60C8F75F8404ECFFE00EB52F1FC7582DC8994A1CEC616D05E751C5",
+    "Size": 56
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\commercial_closure\\__init__.py",
+    "SHA256": "CEB1622CFD7C3E2982C9A6BB2C95F024462B1F5EC735FA4F8414897F767CF147",
+    "Size": 24683
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\commercial_closure\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "1028D4291C22645831A2F0BCCE445C4EC8FAF7FD50A012B62DF8B5D8DC107147",
+    "Size": 30447
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\core\\__pycache__\\config.cpython-311.pyc",
+    "SHA256": "179DC782A6BC11A4D50095B75C88A23D2954F62D86C248A05E48C93CA29F2501",
+    "Size": 963
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\core\\config.py",
+    "SHA256": "BEEA0369BE8D70352BA153FC96C1559E70634A85C572562AEC166B8F16C1D654",
+    "Size": 567
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\crud\\__pycache__\\crud.cpython-311.pyc",
+    "SHA256": "0413EFF1850F0E12E1A064C0F0BC321C78FC49DEEF3B4522A455408C339FA465",
+    "Size": 51588
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\crud\\crud.py",
+    "SHA256": "AD673E149D8247159876AD38158A5D2C587953F5B6FF009804945A01D1EA269E",
+    "Size": 33110
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\data_analysis\\__init__.py",
+    "SHA256": "D5FD03F23595D647873CEA1268196A7E9F73F63873D2247B58FC2AF6E1982B8B",
+    "Size": 16819
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\data_analysis\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "89A666A42B5BA1C770C5E4A7B50649630ED3150775CB1C227A73C68FA23CE2C2",
+    "Size": 23614
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\db\\__pycache__\\session.cpython-311.pyc",
+    "SHA256": "8612C57BF237B8F9D9A930486379361ED69C0179E6CEA84587368ABE19DFB012",
+    "Size": 11505
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\db\\session.py",
+    "SHA256": "856925A61C5D8291308C48A0B0B7DCD5D55E1071E35D5D257619B8E03E8F3797",
+    "Size": 9982
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\video_production\\__init__.py",
+    "SHA256": "F672AF4024DDD8A1B1A82B1EB646B36D15E3370F790EC42AEBC246C100556DB2",
+    "Size": 14834
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\video_production\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "9A8A69884B8CA8164C3273C9BE2EA153052896930186E25161A56903ACA669D4",
+    "Size": 20239
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\video_production\\adapters\\__init__.py",
+    "SHA256": "0CAFC04A1D971FF99ECA691FC7C304C24BF9359AA5C3991EB9ADC5C12CE033BB",
+    "Size": 5281
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\video_production\\adapters\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "DA51E88FF753C39C419E209702BC7F2E4B8855BB8925EC4B547A7D32F4A2D60E",
+    "Size": 10967
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\video_production\\ffmpeg\\__init__.py",
+    "SHA256": "399CF1012EB79F8E36F0F97522E9F0CD2E8EA0D5319C5659C95B84CE7DE11A5F",
+    "Size": 7386
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\backend\\stdlib\\app\\video_production\\ffmpeg\\__pycache__\\__init__.cpython-311.pyc",
+    "SHA256": "773A2041DFBA8070BAEF66BC86E3A26817CB4F3C71EBDA5DD887F08D7ED9D4AF",
+    "Size": 10402
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\cache\\.previewinfo",
+    "SHA256": "7AFADFDE4E7BBCF6685F5449F5A8C4A2E1BC565A049FCCA9B1EBF52562C40AE1",
+    "Size": 262
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\cache\\.rscinfo",
+    "SHA256": "58648DF70F5AA1084D54D3B68224E459ECA81849C6B46CEA065987FA296CAE98",
+    "Size": 102
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\diagnostics\\build-diagnostics.json",
+    "SHA256": "F957528EE74563741494EA85B5FBE42E0B7141BAE938EEFC6DDAA3B4A91F8430",
+    "Size": 83
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\diagnostics\\framework.json",
+    "SHA256": "19A016ACE9402A6F97E674160DAD084046A6B97D4C794B82650F5BC46D276916",
+    "Size": 38
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\package.json",
+    "SHA256": "091A04FA67C7907B98E106FCFF8B964E13129754FCE72D24F3025B97C4887FA3",
+    "Size": 20
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\trace",
+    "SHA256": "56CD63CF803049D5E7C2ED5A56D442FCB3A9BDAB1860BE1389D3B58AFCA91C0C",
+    "Size": 2011
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\types\\routes.d.ts",
+    "SHA256": "819CC6D88102B4108F1C1ECF5739C7A628459F7304F5346D6C8F09E4F705FB46",
+    "Size": 2045
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\.next\\types\\validator.ts",
+    "SHA256": "CF969F3BC31F17BD364D83F8B11C41B3FC0A3995E89794A764C5DEF0E07F5700",
+    "Size": 7223
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\advertisements\\page.tsx",
+    "SHA256": "A8DFE769DC79B6B512BB8BB67A1D4EC0F1090FB69F75418FE4881AD565E67258",
+    "Size": 1411
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\audit-logs\\page.tsx",
+    "SHA256": "64DFCA7B779E705B109FF4686449DB77AC26FC76343F1FD7E89456DAC9A4C314",
+    "Size": 1313
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\characters\\page.tsx",
+    "SHA256": "BA28055AEFAACFC5474B9C6664339D2A48109808C04C92CF644511A3F6C010FF",
+    "Size": 1362
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\compliance-reviews\\page.tsx",
+    "SHA256": "A285184F48D956D5EC30B5961980AFFEEEE53D02536664BD4031A2635B17E4D1",
+    "Size": 1440
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\customers\\page.tsx",
+    "SHA256": "BFDB8ECB0EE8448E6FD4535AE4866F1B25CA0CEDC712B532CEE6788A52CBF477",
+    "Size": 8495
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\dashboard\\page.tsx",
+    "SHA256": "1AA8D1654F57C01482B2D38E66A515705EFD46CF459ECE41C1BDA19F6532F197",
+    "Size": 4547
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\layout.tsx",
+    "SHA256": "C28ED8E0A3AB39BC6BF0ED9404B46D67F764CEAF54D51D70C22E44A21842823D",
+    "Size": 214
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\media-assets\\page.tsx",
+    "SHA256": "FBB4A86A6132A24052A41026A4392DEEE6B13AA33125D453DC36A9868FF7BD16",
+    "Size": 1410
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\performance-metrics\\page.tsx",
+    "SHA256": "A9DC4E322FE92AE993742DF30EBFE73AB9568DD6551E47F2C7504BEF42C73200",
+    "Size": 1535
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\production-tasks\\page.tsx",
+    "SHA256": "28443D5AE3934040F0F6A9F8C275D38CD043D137585C0AD3F9C840CC944E41BD",
+    "Size": 1392
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\products\\page.tsx",
+    "SHA256": "86DE3B5077759E7448F61D08BFE6CCBB795452AD5F0212CEBC00432154DFC809",
+    "Size": 10218
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\projects\\page.tsx",
+    "SHA256": "3509BABEEB50F404E666657E6A900A8BD5EDC063F01938A900A2A09E2FB40F69",
+    "Size": 2407
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\prompt-templates\\page.tsx",
+    "SHA256": "03E4ED3489C2151F5C9AF1F3F5E04A25D054414F282204847F44F3DD53C56C66",
+    "Size": 1373
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\publishing-records\\page.tsx",
+    "SHA256": "DEFD19529B473F299E7027EA12A8FF030F1909E9338F21485EBA7112A7578073",
+    "Size": 1377
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\scripts\\page.tsx",
+    "SHA256": "58E302563004E7F5CE2285EBB9D7800EA0A4A325F1E2665BB689136D445E819E",
+    "Size": 1363
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\story-ideas\\page.tsx",
+    "SHA256": "464CDA8814017E1D68937D9DE8065818F04396C11DD94C28734C2C2CFA7A2EFB",
+    "Size": 1414
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\(main)\\storyboards\\page.tsx",
+    "SHA256": "9E30E7F518F97CF413AD5E20E2EA630A52E3B517B2A199622706DB469FEBA620",
+    "Size": 1368
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\globals.css",
+    "SHA256": "1F203B5FC097160F4530EB1DFAC89ECAFE9A68ABE6E199E580DD9E818FF45D46",
+    "Size": 777
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\layout.tsx",
+    "SHA256": "BEDC3FD2D4F7A15C799F1090261C66BD312914C06AC0418784D9602405AFBBD0",
+    "Size": 507
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\app\\page.tsx",
+    "SHA256": "9FA1F875D573CBAC41B2D739A5DFE7CBC3B6F3F043B1078330A9FF7B35B58596",
+    "Size": 108
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\components\\main-layout.tsx",
+    "SHA256": "968158DC4CEA84063C85F80961546244279A2C4CCE79785A0DB38B6D9BE941E4",
+    "Size": 944
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\components\\navigation.tsx",
+    "SHA256": "4D80DFB3F52E9C98F7167073864CC1ABDA9B518BD4288023DFAD7199B8125E95",
+    "Size": 3055
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\components\\ui\\card.tsx",
+    "SHA256": "BF4C4C33D4E11F39856542A9A4581D289D9EAD892885BCFFDB9653AB527D2B5E",
+    "Size": 7491
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\lib\\api.ts",
+    "SHA256": "272850DABFF9E7EBBDF696B129CF0C2539D51F7E7CAE8241B33825A23F1CDF31",
+    "Size": 7376
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\next-env.d.ts",
+    "SHA256": "879741880B6AB48DA99DCC06DCC674D381C9826137B0496BF7BB368F302DE9FC",
+    "Size": 81
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\next.config.js",
+    "SHA256": "80144C148C4A3298AC95632361598E85C065123D5C1E3060BA200604D62A1602",
+    "Size": 138
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\package-lock.json",
+    "SHA256": "8838A9CBD95E6D6DFAE667B7FA749C313FED20C529D301B15596AA4B25960320",
+    "Size": 222430
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\package.json",
+    "SHA256": "869C06C117B6615E069ABE09F84AA0DF62A61280199DB42E13A779098B7ABE51",
+    "Size": 918
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\tailwind.config.js",
+    "SHA256": "9BF56DE663296261FFAA5E6C13106535E871BB3455774F646521D7DB4534C19C",
+    "Size": 253
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\tests\\frontend.test.ts",
+    "SHA256": "747200F90081A3CFA050113BD930D44ADA1EEF4BAC71A2FC9180A9122746F185",
+    "Size": 1527
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\tsconfig.json",
+    "SHA256": "6A1F414094798FA2DF1AAC632FEF7A599380356E3AB43C9FE4423E4A554EA36B",
+    "Size": 575
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\tsconfig.tsbuildinfo",
+    "SHA256": "E24B6921A7763E49B1F8D2AFA32D94963E341503829AA4D93BFC20FC673C1D2C",
+    "Size": 108210
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\types\\api.ts",
+    "SHA256": "7AA0834F7BAE2B54BB11796E415ECB57143611048E1DA7EA0C0C78007C69E754",
+    "Size": 7054
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\src\\frontend\\types\\index.ts",
+    "SHA256": "043E3008626519F44E15B5A8A837C7E6EA5A32293F350173D34DD20DA9159E7F",
+    "Size": 4594
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\ai_engine\\__pycache__\\test_ai_engine.cpython-311.pyc",
+    "SHA256": "C8BDB3478DCFA8082256759B4E107C268B0D060F2DA92C371E8D7EE134E081F7",
+    "Size": 18983
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\ai_engine\\test_ai_engine.py",
+    "SHA256": "5F7FD2883474AC21EB5612D3D38AA15C7B032BF1BAAF312132D54F0E46C521D5",
+    "Size": 10264
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\backend\\__pycache__\\test_backend.cpython-311.pyc",
+    "SHA256": "7907AA512B6627F8FE25F1F8705F62BD45DA6ABCE90E7761064EE7DFA3BCF5B0",
+    "Size": 20993
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\backend\\test_backend.py",
+    "SHA256": "7EAE7002DD8261EA43DD05B6D802AAF2887B1A27728724DA07BCE44422DCB961",
+    "Size": 10836
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g5\\__pycache__\\test_character_management.cpython-311.pyc",
+    "SHA256": "79FA44D357C433714C3EADBE7317A315E3488FD1EAC2CE35306245CE91EED45D",
+    "Size": 23330
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g5\\test_character_management.py",
+    "SHA256": "FE1A4D0BE5B336C3BBEC02FB365918C2D703A72D3108F2DBEEE530ACC6A30796",
+    "Size": 12689
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g6\\__pycache__\\test_video_production.cpython-311.pyc",
+    "SHA256": "7A3C850A7FC9B5B422497A6BFBF8B80AA063F0AADD195E097DA616BA9CAEEE2A",
+    "Size": 32357
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g6\\test_video_production.py",
+    "SHA256": "37EC4827DED36ACA517152296B8D3688A61E79CB0F25FA001775D169C614EDDD",
+    "Size": 17414
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g7\\__pycache__\\test_data_analysis.cpython-311.pyc",
+    "SHA256": "7263D24C5FEE5F88E54BF58CDC0D33720436843145A709B9338854114EFF404E",
+    "Size": 18469
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g7\\test_data_analysis.py",
+    "SHA256": "814C942F58388D76D2F9B0912AE3E50C0091CDAB15E5CE8A22A90B46A2B6A228",
+    "Size": 10851
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g8\\__pycache__\\test_commercial_closure.cpython-311.pyc",
+    "SHA256": "192BC4F3ADA29A0CC73464A6700E194F3BA564F3AA79CA565AEB45D1C77BED89",
+    "Size": 26435
+  },
+  {
+    "Path": "D:\\AI Story Commerce\\tests\\g8\\test_commercial_closure.py",
+    "SHA256": "A34695F71C36354E817EEA58CD530C7888877AAF2147232E4339B4BD6EC316A2",
+    "Size": 16832
+  }
+]

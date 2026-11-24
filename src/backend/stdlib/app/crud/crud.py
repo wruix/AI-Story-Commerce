@@ -892,3 +892,16 @@ def audit_log_list(conn, skip=0, limit=100):
     rows = conn.execute("SELECT * FROM audit_logs ORDER BY created_at DESC LIMIT ? OFFSET ?",
                         (limit, skip)).fetchall()
     return _rows_to_dicts(rows)
+
+
+def audit_log_update(conn, lid, data):
+    fields = []
+    params = []
+    for k, v in data.items():
+        fields.append(f"{k} = ?")
+        params.append(v)
+    if not fields:
+        return audit_log_get(conn, lid)
+    params.append(lid)
+    conn.execute(f"UPDATE audit_logs SET {', '.join(fields)} WHERE id = ?", params)
+    return audit_log_get(conn, lid)
