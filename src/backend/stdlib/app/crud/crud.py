@@ -232,6 +232,59 @@ def character_delete(conn, cid):
 
 
 # ===========================================================================
+# Character Assets
+# ===========================================================================
+def character_asset_create(conn, data):
+    aid = generate_id()
+    now = now_iso()
+    conn.execute(
+        """INSERT INTO character_assets (id, character_id, asset_type, file_path, sha256,
+           description, created_at)
+           VALUES (?, ?, ?, ?, ?, ?, ?)""",
+        (aid, data["character_id"], data["asset_type"], data["file_path"],
+         data.get("sha256"), data.get("description"), now),
+    )
+    return character_asset_get(conn, aid)
+
+
+def character_asset_get(conn, aid):
+    row = conn.execute("SELECT * FROM character_assets WHERE id = ?", (aid,)).fetchone()
+    return _row_to_dict(row)
+
+
+def character_asset_list(conn, character_id=None, skip=0, limit=100):
+    if character_id:
+        rows = conn.execute(
+            "SELECT * FROM character_assets WHERE character_id = ? ORDER BY created_at DESC LIMIT ? OFFSET ?",
+            (character_id, limit, skip),
+        ).fetchall()
+    else:
+        rows = conn.execute("SELECT * FROM character_assets ORDER BY created_at DESC LIMIT ? OFFSET ?",
+                            (limit, skip)).fetchall()
+    return _rows_to_dicts(rows)
+
+
+def character_asset_update(conn, aid, data):
+    fields = []
+    params = []
+    for k, v in data.items():
+        fields.append(f"{k} = ?")
+        params.append(v)
+    if not fields:
+        return character_asset_get(conn, aid)
+    params.append(aid)
+    conn.execute(f"UPDATE character_assets SET {', '.join(fields)} WHERE id = ?", params)
+    return character_asset_get(conn, aid)
+
+
+def character_asset_delete(conn, aid):
+    row = character_asset_get(conn, aid)
+    if row:
+        conn.execute("DELETE FROM character_assets WHERE id = ?", (aid,))
+    return row
+
+
+# ===========================================================================
 # Story Ideas
 # ===========================================================================
 def story_idea_create(conn, data):
