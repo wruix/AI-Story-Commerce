@@ -904,4 +904,5 @@ def audit_log_update(conn, lid, data):
         return audit_log_get(conn, lid)
     params.append(lid)
     conn.execute(f"UPDATE audit_logs SET {', '.join(fields)} WHERE id = ?", params)
+    conn.commit()
     return audit_log_get(conn, lid)
