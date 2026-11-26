@@ -326,6 +326,8 @@ def story_idea_update(conn, sid, data):
         params.append(v)
     if not fields:
         return story_idea_get(conn, sid)
+    fields.append("updated_at = ?")
+    params.append(now_iso())
     params.append(sid)
     conn.execute(f"UPDATE story_ideas SET {', '.join(fields)} WHERE id = ?", params)
     return story_idea_get(conn, sid)
